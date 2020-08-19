@@ -6,8 +6,8 @@
 <h2>ScreenShots<h2>
 
 <img src="/git_images/oh_barbeiro_header.png">
-<img src="/git_images/oh_barbeiro_header.png">
-<img src="/git_images/oh_barbeiro_header.png">
+<img src="/git_images/oh_barbeiro_mosaico.png">
+<img src="/git_images/oh_barbeiro_footer.png">
 
 
 
