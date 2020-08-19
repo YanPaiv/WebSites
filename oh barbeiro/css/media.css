@@ -1,0 +1,88 @@
+@media screen and (max-width: 1480px){
+	.map-wraper3{
+		display: none;
+	}
+
+	.horarios{
+		width: 100%;
+		margin-top: -50px;
+		margin-bottom: -100px;
+	}
+
+	.map-wraper > h2{
+		display: none;
+	}
+
+}
+@media screen and (max-width: 1360px){
+	nav.desktop{
+		display: none;
+	}
+
+	nav.mobile{
+		display: block;
+	}
+
+	.social{
+		display: none;
+	}
+
+	header{
+		border: none;
+	}
+
+	.seta{
+		display: none;
+	}
+
+	.chamada{
+		margin-top:-50px;
+	}
+
+	.equipe{
+		text-align: center;
+	}
+
+
+}
+
+@media screen and (max-width: 850px){
+
+
+	.flex-mosaico{
+		display: block;
+	}
+	.item-1-mosaico{
+		padding-top: 80%;
+		width: 100%;
+}
+
+	.item-2-mosaico{
+		width: 100%;
+}
+	.serviços{
+		display: block; 
+	}
+
+	.serviço1{
+		width: 100%;
+	}
+
+	.equipe{
+		display: block;
+		width: 100%;
+		text-align: center;
+		padding-bottom: 20px;
+		margin-top: 100px;
+	}
+
+	.historia{
+		display: block;
+		width: 100%;
+		text-align: center;
+		margin-top: 100px;
+		margin-bottom: -60px;
+	}
+
+
+}
