@@ -3,4 +3,4 @@
 
 <h3>ScreenShots<h3>
 
-<img src="/git_images/oh_barbeiro_header.png" width="800" height="800">
+<img src="/git_images/oh_barbeiro_header.png" width="800" height="800" background-size:cover;>
