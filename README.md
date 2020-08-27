@@ -3,4 +3,5 @@
 
 <h3>ScreenShots<h3>
 
-<a src="/file:///C:/Users/55229/Pictures/Saved%20Pictures/gif_git/oh_barbeiro.gif" a>
+![oh_barbeiro](https://user-images.githubusercontent.com/69093389/91478297-fd7f0880-e875-11ea-8f0c-456b926278ea.gif)
+
