@@ -5,11 +5,7 @@
 
 <h2>ScreenShots<h2>
 
-<img src="/git_images/oh_barbeiro_header.png">
-<img src="/git_images/oh_barbeiro_service.png">
-<img src="/git_images/oh_barbeiro_mosaico.png">
-<img src="/git_images/oh_barbeiro_history.png">
-<img src="/git_images/oh_barbeiro_footer.png">
+![]((file:///C:/Users/55229/Pictures/Saved%20Pictures/gif_git/oh_barbeiro.gif))
 
 
 
