@@ -5,7 +5,7 @@
 
 <h2>ScreenShots<h2>
 
-![]((file:///C:/Users/55229/Pictures/Saved%20Pictures/gif_git/oh_barbeiro.gif))
+![]((oh_barbeiro.gif))
 
 
 
