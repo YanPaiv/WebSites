@@ -5,7 +5,7 @@
 
 <h2>ScreenShots<h2>
 
-![demo]((oh_barbeiro.gif))
+![]((oh_barbeiro.gif))
 
 
 
